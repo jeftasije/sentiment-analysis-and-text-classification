@@ -30,6 +30,7 @@ libclang==18.1.1
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
+matplotlib==3.9.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 ml-dtypes==0.3.2
@@ -40,6 +41,7 @@ numpy==1.26.4
 opt-einsum==3.3.0
 optree==0.11.0
 packaging==24.0
+pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 pillow==10.3.0
@@ -57,6 +59,9 @@ pyzmq==26.0.3
 regex==2024.5.15
 requests==2.31.0
 rich==13.7.1
+scikit-learn==1.5.0
+scipy==1.13.0
+seaborn==0.13.2
 six==1.16.0
 stack-data==0.6.3
 tensorboard==2.16.2
@@ -64,6 +69,7 @@ tensorboard-data-server==0.7.2
 tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.37.0
 termcolor==2.4.0
+threadpoolctl==3.5.0
 tornado==6.4
 tqdm==4.66.4
 traitlets==5.14.3
